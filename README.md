@@ -1,46 +1,54 @@
-<h1 align="center">Hi Folks! I'm Husni Mubarok👋</h1>
-<p align="center">
-  💻 Web Developer | ✍️ Web Content Writer | 🎨 UI/UX Designer  
-</p>
-
+## ![Husni Mubarok](img/Banner-Github.png)
 ---
 
 ### 👨‍🎓 About Me
 
-Saya adalah seorang mahasiswa semester 6 Program Studi Informatika di **Universitas Internasional Semen Indonesia**, yang juga aktif bekerja sebagai **freelance Web Content Writer** di **Eyelink Group**.
+I'm a 6th-semester Informatics student at **Universitas Internasional Semen Indonesia**, currently working as a **freelance Web Content Writer** at **Eyelink Group**.
 
-Saat ini saya telah menyelesaikan beberapa **real project di bidang Web Development dan UI/UX Design**, baik sebagai freelance maupun sebagai bagian dari tugas kuliah. Saya sangat tertarik dengan teknologi, terutama yang berkaitan dengan **programming** dan **desain antarmuka pengguna**.
+Throughout my academic and freelance journey, I’ve worked on several **real-world Web Development and UI/UX projects**, ranging from client-based freelance work to university assignments. I'm deeply passionate about **technology**, especially in the areas of **programming** and **user interface/user experience design**.
+
+> “Work with a calm mood and learn new things every day.”
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-- 💡 **Languages:** HTML, CSS, JavaScript, PHP, Java, Wordpress
-- ⚙️ **Frameworks & Libraries:** Laravel, React.js, TailwindCSS
-- 🎨 **UI/UX Tools:** Figma, Adobe XD
-- 🔧 **Other Tools:** Git, GitHub, VS Code, Postman
+
+💡 **Languages & Frameworks**  
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
+<img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Alpine%20JS-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black" />
+
+💻 **Database & Tools**  
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />
+
+🎨 **Design & Productivity**  
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 
 ---
 
-### 📌 Highlights
-- 🔥 Aktif mengerjakan **real-world freelance projects** dengan fokus pada user experience dan kebutuhan klien
-- ✍️ Penulis konten web dengan pengalaman membuat artikel teknis, edukatif, dan SEO-friendly
-- 🎓 Telah menyelesaikan berbagai **proyek kampus** berbasis web dan mobile, menggunakan Laravel & React
-- 🌱 Sedang memperdalam pemahaman tentang **software engineering, backend development**, dan **design systems**
+<!-- ### 🔍 Highlights
+- 🔥 Experienced in delivering **real-world freelance projects** focused on user needs and client satisfaction.
+- ✍️ Skilled **content writer**, crafting technical, educational, and SEO-friendly web content.
+- 🎓 Completed several academic-based web and mobile projects using **Laravel**, **React**, and **TailwindCSS**.
+- 🌱 Currently deepening knowledge in **software engineering, backend development**, and **design systems**.
 
----
+--- -->
 
-### 📂 Featured Projects
-| Project | Tech Stack | Deskripsi |
-|--------|------------|-----------|
-| 🛒 [CreativeHub Platform](https://github.com/husnimubarok/creativehub) | Laravel, TailwindCSS, MySQL | Platform penjualan produk digital seperti template, font, icon pack |
-| ✅ [ToDo App Web](https://github.com/husnimubarok/todo-app) | Laravel, Svelte, TailwindCSS | Aplikasi ToDo List untuk manajemen tugas pribadi |
-| 👓 [Eyewear Landing Page](https://github.com/husnimubarok/eyewear-uiux) | Figma | Desain UI landing page brand kacamata yang responsif dan modern |
+<!-- ### 📂 Featured Projects
 
----
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| 🛒 [CreativeHub Platform](https://github.com/husnimubarok/creativehub) | Laravel, TailwindCSS, MySQL | A digital product marketplace platform for selling templates, fonts, and icon packs |
+| ✅ [ToDo App Web](https://github.com/husnimubarok/todo-app) | Laravel, Svelte, TailwindCSS | A responsive and simple ToDo List application for daily task management |
+| 👓 [Eyewear Landing Page](https://github.com/husnimubarok/eyewear-uiux) | Figma | A clean and responsive UI design for a modern eyewear brand landing page |
 
-<!-- ### 📫 Let's Connect!
-- 🌐 [Portfolio Website](https://yourportfolio.com) *(opsional jika sudah ada)*
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourname)
-- 📬 husnimubarok@email.com -->
+--- -->
+
+### 📬 Connect With Me
+
+<a href="https://www.instagram.com/fe.husni/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/husni-mubarok-fe-husni/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
