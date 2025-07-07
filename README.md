@@ -23,7 +23,10 @@ Throughout my academic and freelance journey, I’ve worked on several **real-wo
 🎨 **Design & Productivity**  
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 
+![Husni Mubarok GitHub stats](https://github-readme-stats.vercel.app/api?username=fe-husni&show_icons=true&theme=dracula)
+
 ---
+
 
 <!-- ### 🔍 Highlights
 - 🔥 Experienced in delivering **real-world freelance projects** focused on user needs and client satisfaction.
